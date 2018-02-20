@@ -40,3 +40,4 @@ if __name__ == "__main__":
     print get_country(db)
 
 ```
+The above code have been taken from (http://www.bogotobogo.com/python/MongoDB_PyMongo/python_MongoDB_pyMongo_tutorial_installing.php)
